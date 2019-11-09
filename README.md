@@ -1,0 +1,1 @@
+This is my third python repository on GitHub. This repository is on the Fibonacci Sequence. The sequence’s formula is: Number1 + Number2 = Number3. Inside the “Print” statement, the number n is the nth term in the sequence. I used Anaconda Spyder (Python 3.7) to write this code.
